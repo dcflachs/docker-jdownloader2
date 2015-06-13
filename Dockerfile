@@ -1,7 +1,7 @@
 # Builds a docker gui image
 FROM hurricane/dockergui:x11rdp1.2
 
-MAINTAINER aptalca
+MAINTAINER dcflachs
 
 #########################################
 ##        ENVIRONMENTAL CONFIG         ##
